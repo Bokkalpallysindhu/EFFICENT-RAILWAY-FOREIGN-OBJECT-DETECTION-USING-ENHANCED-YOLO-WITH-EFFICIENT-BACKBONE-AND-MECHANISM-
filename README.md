@@ -1,0 +1,2 @@
+# EFFICENT-RAILWAY-FOREIGN-OBJECT-DETECTION-USING-ENHANCED-YOLO-WITH-EFFICIENT-BACKBONE-AND-MECHANISM-
+This study presents a two-stage railway foreign object detection system using YOLOv8 and Overhaul Knowledge Distillation (OKD). A lightweight classifier filters images, while YOLOv8 detects and localizes intrusions. OKD improves accuracy and efficiency, enabling faster, robust, and reliable detection.
