@@ -1,0 +1,7 @@
+
+path: D:/vert/CODES/OBJECTS_IN_RAILWAY_TRACK/CODE/
+train: D:/vert/CODES/OBJECTS_IN_RAILWAY_TRACK/CODE/train
+val: D:/vert/CODES/OBJECTS_IN_RAILWAY_TRACK/CODE/valid
+
+nc: 5
+names: ['car', 'person', 'rail-track', 'traffic-light', 'trains']
